@@ -1,15 +1,12 @@
+# Ace
 
-Twitter bootstrap 3 admin template
+Twitter bootstrap 3 responsive admin theme
 
 see example http://ace.jeka.by/
 
-
 Try:
-- git clone git@github.com:bopoda/ace.git
+- git clone git@github.com:cornernote/ace.git
 - open ace/index.html in your desktop or mobile browser
-
-
-Простой и многофункциональный Twitter bootstrap 3 шаблон для админки. Responsive дизайн.
 
 Browsers:
 - Internet Explorer 10
