@@ -1,0 +1,23 @@
+{
+  "name": "ace",
+  "version": "1.0.0",
+  "description": "Twitter bootstrap 3 admin template",
+  "main": "assets/css/ace.min.css",
+  "keywords": [
+    "ace",
+    "theme"
+  ],
+  "authors": [
+    "bopoda"
+  ],
+  "license": "MIT",
+  "homepage": "http://ace.jeka.by",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower",
+    "test",
+    "tests"
+  ]
+}
