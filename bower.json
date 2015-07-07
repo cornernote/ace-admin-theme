@@ -1,6 +1,6 @@
 {
   "name": "ace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Twitter bootstrap 3 admin template",
   "main": "assets/css/ace.min.css",
   "keywords": [
